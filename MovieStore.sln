@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieStore.WebApi", "MovieStore.WebApi\MovieStore.WebApi.csproj", "{EC821A78-4C20-4B9B-8AD1-764F1277FD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStore.WebApi.Tests", "MovieStore.WebApi.Tests\MovieStore.WebApi.Tests.csproj", "{83241735-298A-4FFF-8000-16BD5EFE5A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC821A78-4C20-4B9B-8AD1-764F1277FD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC821A78-4C20-4B9B-8AD1-764F1277FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC821A78-4C20-4B9B-8AD1-764F1277FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC821A78-4C20-4B9B-8AD1-764F1277FD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83241735-298A-4FFF-8000-16BD5EFE5A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83241735-298A-4FFF-8000-16BD5EFE5A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83241735-298A-4FFF-8000-16BD5EFE5A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83241735-298A-4FFF-8000-16BD5EFE5A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D54B304-416A-4A56-938D-7ECEEC8E794E}
+	EndGlobalSection
+EndGlobal
